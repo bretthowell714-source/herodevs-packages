@@ -4,7 +4,7 @@ This is a repo where HeroDevs develop and test our public packages.
 To see the source for each public npm package, head into the
 `projects` folder and see each project.
 
-#### Publishing a new package
+### Publishing a new package
 
 To add a new package to be published, do the following:
 
